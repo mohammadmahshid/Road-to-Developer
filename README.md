@@ -1,2 +1,2 @@
-# Road-to-Developer
+# Python fundamentals
 my programming journey
