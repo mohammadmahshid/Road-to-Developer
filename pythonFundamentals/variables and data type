@@ -1,6 +1,1 @@
-#integer 
-
-age = 20
-marks = 95
-temperature = -5
-print(type(age))
+print("hello ")
